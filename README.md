@@ -37,6 +37,9 @@ We understand the data.
 Create a Correlation and visualize it.
 Test Different Models and find the best model out of it.
 Train the model on intel oneAPI and Speech recognition API.
+
+![image](https://user-images.githubusercontent.com/117058119/225617139-f0062359-588b-4148-8f6e-96002df6d4bd.png)
+
 Save the Model.
 
 ![image](https://user-images.githubusercontent.com/117058119/225616005-67aace2f-d28b-42ee-a5cf-8945dc6ec8b0.png)
