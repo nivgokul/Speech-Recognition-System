@@ -38,7 +38,7 @@ Create a Correlation and visualize it.
 Test Different Models and find the best model out of it.
 Train the model on intel oneAPI and Speech recognition API.
 
-![image](https://user-images.githubusercontent.com/117058119/225617139-f0062359-588b-4148-8f6e-96002df6d4bd.png)
+![image](https://user-images.githubusercontent.com/117058119/225617308-d887d042-8946-4287-91b6-2d0eb3ed856a.png)
 
 Save the Model.
 
