@@ -48,7 +48,8 @@ Save the Model.
 ![image](https://user-images.githubusercontent.com/117058119/225616005-67aace2f-d28b-42ee-a5cf-8945dc6ec8b0.png)
 
 What I learned from one API
-✅Building application using intel oneDAL: The Intel one API Data Analytics Library (oneDAL) contributes to the acceleration of extensive data analysis by providing highly optimized algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modeling, validation, and decision making) in batch, online, and distributed processing modes of computation. The library optimizes data ingestion and algorithmic computation to increase throughput and scalability.
+
+✅Building application using intel oneDNN: The Intel one API Deep Neural Network (oneDNN) contributes to the acceleration of extensive data analysis by providing highly optimized algorithmic building blocks for all phases of data analytics (preprocessing, transformation, analysis, modeling, validation, and decision making) in batch, online, and distributed processing modes of computation. The library optimizes data ingestion and algorithmic computation to increase throughput and scalability.
 
 ✅Machine Learning: I likely learned about different machine learning algorithms and how they can be applied to transcript speech and make recommendations for farmers.
 
